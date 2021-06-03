@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dsm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/dsm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
